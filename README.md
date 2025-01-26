@@ -1,63 +1,33 @@
-🚀 Modern Resume
-A stunning, interactive resume built with the power of Next.js, React, and Three.js. Showcase your skills, experience, and projects with elegance and a touch of innovation.
+# 🚀 **Modern Resume**
 
-🌐 Live Demo: Click here to view the website!
+A stunning, interactive resume built with the power of **Next.js**, **React**, and **Three.js**. Showcase your skills, experience, and projects with elegance and a touch of innovation.  
 
-✨ Features
-🌌 Interactive 3D Animations: Add depth and interactivity with Three.js.
-📱 Responsive Design: Seamlessly adapts across all devices, from mobile to desktop.
-🌙 Dark Mode: Because everyone loves a cool dark theme!
-📄 Downloadable PDF Resume: Allow visitors to save a static version of your resume.
-🖼️ Project Gallery: Showcase your projects with visuals and descriptions.
-📸 Preview
-Desktop	Mobile
-Replace the placeholders above with real screenshots of your resume for better engagement.
+🌐 **Live Demo**: [Click here to view the website!](https://resume-piyush20502s-projects.vercel.app/)  
 
-🚀 Getting Started
-Follow these steps to get the project up and running locally:
+---
 
-1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/modern-resume.git
-cd modern-resume
-2. Install Dependencies
-Using npm:
+## ✨ **Features**  
 
-bash
-Copy
-Edit
-npm install
-Or with yarn:
+- 🌌 **Interactive 3D Animations**: Add depth and interactivity with Three.js.  
+- 📱 **Responsive Design**: Seamlessly adapts across all devices, from mobile to desktop.  
+- 🌙 **Dark Mode**: Because everyone loves a cool dark theme!  
+- 📄 **Downloadable PDF Resume**: Allow visitors to save a static version of your resume.  
+- 🖼️ **Project Gallery**: Showcase your projects with visuals and descriptions.  
 
-bash
-Copy
-Edit
-yarn install
-3. Start the Development Server
-Run the following command to start the development server:
+---
 
-bash
-Copy
-Edit
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-Access the app at http://localhost:3000.
+## 📸 **Preview**
 
-🌍 Deployment
-This project is deployed on Vercel. Access the live version here:
-https://resume-piyush20502s-projects.vercel.app/
+| **Desktop** | **Mobile** |  
+|-------------|------------|  
+| ![Desktop View]([https://via.placeholder.com](https://drive.google.com/file/d/1tOe08y-E3Z-tGjMEeakEIZaCjlLUbePv/view?usp=sharing)) | ![Mobile View](https://via.placeholder.com/300x500) |  
 
-To deploy your own version:
+> _Replace the placeholders above with real screenshots of your resume for better engagement._
 
-Push your code to GitHub.
-Link the repository to Vercel.
-Deploy with one click!
-🛠️ Technologies Used
-Frontend: Next.js, React, Tailwind CSS
-3D Animations: Three.js
-Hosting: Vercel
+---
+
+## 🛠️ **Technologies Used**  
+
+- **Frontend**: Next.js, React, Tailwind CSS  
+- **3D Animations**: Three.js  
+- **Hosting**: Vercel  
