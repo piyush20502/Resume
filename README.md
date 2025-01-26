@@ -22,8 +22,6 @@ A stunning, interactive resume built with the power of **Next.js**, **React**, a
 |-------------|------------|  
 | ![Desktop View]([https://via.placeholder.com](https://drive.google.com/file/d/1tOe08y-E3Z-tGjMEeakEIZaCjlLUbePv/view?usp=sharing)) | ![Mobile View](https://via.placeholder.com/300x500) |  
 
-> _Replace the placeholders above with real screenshots of your resume for better engagement._
-
 ---
 
 ## 🛠️ **Technologies Used**  
