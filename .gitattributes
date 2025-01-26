@@ -4,3 +4,10 @@
 *.json text eol=lf
 *.config.js text eol=lf
 *.sh text eol=lf
+
+# Set default behavior to automatically normalize text files to LF
+* text=auto
+
+# Specific overrides
+*.ts text eol=lf
+*.tsx text eol=lf
