@@ -5,18 +5,18 @@ import ImageGallery from "./ImageGallery"
 
 const projects = [
   {
-    title: "Machine Learning Based Crops Harvesting",
-    period: "July 2024 - October 2024",
-    technologies: "Python, Flask, NBClassifier, DecisionTree, Torch",
-    link: "https://github.com/yourusername/crops-harvesting",
+    title: "Malware Detection Automation System Development",
+    period: "Jan 2025 - March 2025",
+    technologies: "Technology: Python, Flask, PyTorch, Scikit-Learn, VMware, REMnux, Random Forest",
+    link: "https://github.com/piyush20502/MalBullying",
     details: [
-      "Applied machine learning algorithms to increase crop yield prediction accuracy by 25%, utilizing large datasets.",
-      "Enabling real-time prediction capabilities for end-users in agriculture.",
-      "Conducted extensive testing with 85% accuracy, providing valuable insights into the intersection of technology and sustainable agriculture.",
+      "Designed and implemented an AI-powered malware detection system with 3-layer security: static analysis, dynamic behavior analysis, and network threat intelligence.",
+      "Enhanced threat detection by 30 % using machine learning (PyTorch, Scikit-Learn) for adaptive anomaly detection.",
+      "• Developed a sandboxed environment for safe malware execution, preventing system compromise during dynamic analysis.",
     ],
     images: [
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pic%204.jpg-tz4WuaE25P4XPCe4ZMInAubb9rFgvo.jpeg",
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pic%203.jpg-HwCXHDm7eYQWFp2VBXNnqq0GLnOg23.jpeg",
+      // "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pic%204.jpg-tz4WuaE25P4XPCe4ZMInAubb9rFgvo.jpeg",
+      // "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pic%203.jpg-HwCXHDm7eYQWFp2VBXNnqq0GLnOg23.jpeg",
     ],
   },
   {
@@ -30,8 +30,8 @@ const projects = [
       "Implemented a robust authentication system, enhancing user data security.",
     ],
     images: [
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pic%201.jpg-IOeUrX9vIwCqQt2Z320jSEtRAvZsCy.jpeg",
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pic%202.jpg-Oh8w8p1PZsz5oPSRsr5OSXl1hGJWnv.jpeg",
+      // "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pic%201.jpg-IOeUrX9vIwCqQt2Z320jSEtRAvZsCy.jpeg",
+      // "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pic%202.jpg-Oh8w8p1PZsz5oPSRsr5OSXl1hGJWnv.jpeg",
     ],
   },
 ]
